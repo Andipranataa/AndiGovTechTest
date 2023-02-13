@@ -24,6 +24,6 @@ How to Run Script Automation:
   - Script Automation Test Already run.
 
 Notes:
-  - Scipt Automation in Folder e2e -> Login.cy.js
+  - Scipt Automation in Folder cypress -> e2e -> Login.cy.js
   - Script Automation login.cy.js related to all data on support and fixtures folder
   - Script Positive and Negative Case already handle modify or costumize username and password login feature
