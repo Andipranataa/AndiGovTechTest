@@ -16,6 +16,7 @@ How to Test:
   - Save all document
 
 How to Run Script Automation:
+  - When already in Text editor go to terminal
   - run cypress in terminal -> npx cypress open
   - choose E2E Testing
   - choose Browser 
