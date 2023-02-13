@@ -11,9 +11,9 @@ Prerequisites
 
 How to Test:
   - Create folder test
-  - Create Script Automation - e2e case
-  - Create Script Automation - fixtures - Data Login // All data Username and Password keep in this folder
-  - Create Script Automation - support - Commands.js and Elements.js // this case for input elements data and command cypress script
+  - Create Script Automation - e2e case - login.cy.js -> script automation, use cypress command
+  - Create Script Automation - fixtures - Data Login // All data Username and Password keep in this folder - add data from saucedemo.com
+  - Create Script Automation - support - Commands.js and Elements.js // this case for input elements data and command cypress script - no need use libraries
   - Save all document
 
 How to Run Script Automation:
